@@ -29,3 +29,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turjo99&show_icons=true&locale=en" alt="turjo99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turjo99&" alt="turjo99" /></p>
+
+<img src="https://raw.githubusercontent.com/turjo99/turjo99/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/turjo99/turjo99/output/snake.svg" alt="Snake animation" />
+
