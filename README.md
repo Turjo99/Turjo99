@@ -28,6 +28,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turjo99&theme=dark&card_width=1000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turjo99&theme=tokyonight)
+
 
 
 
